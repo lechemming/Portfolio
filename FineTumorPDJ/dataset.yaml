@@ -1,0 +1,9 @@
+path: /content/drive/MyDrive/Colab_EE428/Colab_F2025/FinalProject/
+
+train: train
+test: test
+val: valid
+
+
+nc: 2
+names: ['__none__','tumor']
