@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MAX3949ETE")(type "KiCad")(uri "C:/Users/leche/Desktop/418Project/Libs/KiCADv6/2026-03-20_20-03-35.kicad_sym")(options "")(descr ""))
+  (lib (name "ADCMP572BCPZ-RL7")(type "KiCad")(uri "C:/Users/leche/Desktop/418Project/Libs/ADCMP572B/KiCADv6/2026-03-20_20-16-41.kicad_sym")(options "")(descr ""))
+  (lib (name "ATTINY404-SSN")(type "KiCad")(uri "C:/Users/leche/Desktop/418Project/Libs/ul_ATTINY404-SSN/KiCADv6/2026-03-22_03-53-37.kicad_sym")(options "")(descr ""))
+  (lib (name "ADCMP607BCMPZ")(type "KiCad")(uri "C:/Users/leche/Desktop/418Project/Libs/ul_ADCMP607BCPZ-R7/KiCADv6/2026-03-22_17-51-10.kicad_sym")(options "")(descr ""))
+  (lib (name "CON_SMA_EDGE_S")(type "KiCad")(uri "C:/Users/leche/Desktop/418Project/Libs/CON_SMA_EDGE_S/CON-SMA-EDGE-S.kicad_sym")(options "")(descr ""))
+  (lib (name "GSB1C41110SSHR_USBC")(type "KiCad")(uri "C:/Users/leche/Desktop/418Project/Libs/GSB1C41110SSHR/GSB1C41110SSHR.kicad_sym")(options "")(descr ""))
+)
